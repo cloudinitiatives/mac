@@ -1,3 +1,6 @@
+save .bash_profile to users home directory
+
+
 Change Prompt Color on you Mac
 
 
